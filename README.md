@@ -1,6 +1,34 @@
 # project-kelompok-4
 
+Pendahuluan
 
+Dalam laporan ini, penulis membuat sebuah program kalkulator sederhana menggunakan bahasa pemrograman Python. Program ini dirancang untuk menerima dua input angka dari pengguna, kemudian memilih jenis operasi aritmatika yang diinginkan. Selanjutnya, program akan memproses perhitungan sesuai pilihan dan menampilkan hasilnya secara langsung. Pembuatan program ini bertujuan untuk memahami dasar-dasar logika pemrograman, penggunaan input-output, percabangan kondisi, serta pengolahan data dalam Python.
+
+Melalui pembuatan program ini, diharapkan pengguna dapat memperoleh gambaran mengenai cara kerja kalkulator digital serta memahami bagaimana struktur kode dapat digunakan untuk menyelesaikan masalah matematis secara efisien. Selain itu, pembuatan proyek sederhana ini menjadi langkah awal untuk mengembangkan program yang lebih kompleks dan fungsional di masa mendatang.
+
+Fitur Utama
+1. Input Dua Angka
+Program menyediakan mekanisme untuk menerima dua angka dari pengguna. Angka ini akan dijadikan nilai yang akan diolah dalam proses perhitungan. Pengguna bebas memasukkan angka berapa pun sesuai kebutuhan
+
+2. Pemilihan Jenis Operasi
+Program menawarkan empat jenis operasi aritmatika dasar, yaitu:
+-Penjumlahan
+-Pengurangan
+-Perkalian
+-Pembagian
+Setiap pilihan diwaliki dengan angka 1 sampai 4 sehingga pengguna dapat memilih operasi yang diinginkan dengan mudah.
+
+3. Proses Perhitungan Otomatis
+Setelah pengguna memasukkan pilihan, program akan menjalankan perhitungan sesuai operasi yang dipilih. Proses ini dilakukan menggunakan struktur percabangan sehingga setiap operasi dieksekusi sesuai kondisi.
+
+4. Penanganan Input Pilihan yang Salah
+Jika pengguna memasukkan angka di luar pilihan 1 sampai 4, program akan memberikan pesan peringatan bahwa pilihan tersebut tidak valid. Hal ini membantu menghindari kesalahan eksekusi program.
+
+5. Menampilkan Hasil Perhitungan
+Setelah operasi dilakukan, program menampilkan hasil akhir kepada pengguna dalam format yang mudah dibaca. Output yang ditampilkan berbeda tergantung operasi yang dipilih.
+
+6. Pesan Penutup
+Program memberikan pesan bahwa proses perhitungan telah selesai. Hal ini berfungsi sebagai penanda bahwa seluruh alur kerja program sudah dijalankan.
 
 
 Dokumentasi teknis (flowchart)
