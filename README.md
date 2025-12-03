@@ -1,4 +1,4 @@
-# project-kelompok-4
+# Program Simple Calculator
 
 Pendahuluan
 
@@ -75,9 +75,17 @@ Configuring the line ending conversions
    Pilih “Checkout Windows-style, commit Unix-style line endings” (default).
 
 Klik Next terus hingga tombol Install muncul. Klik Install dan tunggu proses selesai.
-
 Setelah instalasi selesai:
  Klik Start Menu → cari dan buka terminal atau command prompt
  Di halaman command prompt, tuliskan
  git --version
 Jika muncul versi Git (misalnya git version 2.43.0), berarti Git berhasil diinstal.
+
+# 👥 Kolaborator
+
+| Nama                | NIM           | GitHub Profil |
+|---------------------|---------------|---------------|
+| Seven Takumansang   | 250211060073  | [tave-s3n-commits](https://github.com/tave-s3n-commits) |
+| Keith Mbatono       | 250211060121  | [kiikoow](https://github.com/kiikoow) |
+| Clark Tumbel        | 250211060103  | [Clark-kay](https://github.com/Clark-kay) |
+| Jeremi Liem         | 250211060038  | [j3liem](https://github.com/j3liem) |
