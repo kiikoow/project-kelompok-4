@@ -2,7 +2,7 @@
 
 Pendahuluan
 
-Dalam laporan ini, penulis membuat sebuah program kalkulator sederhana menggunakan bahasa pemrograman Python. Program ini dirancang untuk menerima dua input angka dari pengguna, kemudian memilih jenis operasi aritmatika yang diinginkan. Selanjutnya, program akan memproses perhitungan sesuai pilihan dan menampilkan hasilnya secara langsung. Pembuatan program ini bertujuan untuk memahami dasar-dasar logika pemrograman, penggunaan input-output, percabangan kondisi, serta pengolahan data dalam Python.
+Kami membuat sebuah program kalkulator sederhana menggunakan bahasa pemrograman Python. Program ini dirancang untuk menerima dua input angka dari pengguna, kemudian memilih jenis operasi aritmatika yang diinginkan. Selanjutnya, program akan memproses perhitungan sesuai pilihan dan menampilkan hasilnya secara langsung. Pembuatan program ini bertujuan untuk memahami dasar-dasar logika pemrograman, penggunaan input-output, percabangan kondisi, serta pengolahan data dalam Python.
 
 Melalui pembuatan program ini, diharapkan pengguna dapat memperoleh gambaran mengenai cara kerja kalkulator digital serta memahami bagaimana struktur kode dapat digunakan untuk menyelesaikan masalah matematis secara efisien. Selain itu, pembuatan proyek sederhana ini menjadi langkah awal untuk mengembangkan program yang lebih kompleks dan fungsional di masa mendatang.
 
